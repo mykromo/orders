@@ -1,0 +1,6 @@
+com/airasia/hotels/repository/CustomerRepository.class
+com/airasia/hotels/HotelsApplication.class
+com/airasia/hotels/repository/HotelRepository.class
+com/airasia/hotels/model/Customer.class
+com/airasia/hotels/model/Hotel.class
+com/airasia/hotels/controller/HotelController.class
